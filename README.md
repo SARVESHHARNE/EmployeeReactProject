@@ -1,6 +1,6 @@
 # First make changes in newWebapp 
 
-newWebapp is webservice so first make changes in dbsconnection file , enter your id password,and other details 
+newWebapp is webservice so first make changes in dbs>database.js file , enter your id password,and other details 
 
 ## Install all dependencies in newWebapp
 
